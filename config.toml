@@ -1,4 +1,4 @@
-baseurl = "http://lizhallcomedy.com/"
+baseurl = "http://bizarr2d2.com/LizHallComedy/"
 languageCode = "en-us"
 title = "Liz Hall"
 theme = "hugo-creative-theme"
@@ -47,11 +47,18 @@ theme = "hugo-creative-theme"
 	[params.about]
 		headline    = "Hilarious!"
 		description = "Shit. All of that positivity earlier was just too much caffeine."
-		buttonText  = "Get started!"
+		buttonText  = "Contact Liz"
 
 
 	# Shows section
 	[params.shows]
+		headline    = "Upcoming Shows"
+
+	  [[params.shows.list]]
+	    date = "Thursday August 10th 10pm"
+	    venue = "Standup NY"
+	    tickets = "www.google.com"
+
 
 	# videos section
 	[params.videos]

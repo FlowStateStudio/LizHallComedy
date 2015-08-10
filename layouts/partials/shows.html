@@ -2,7 +2,30 @@
 <section class="bg-primary" id="shows">
     <div class="container">
         <div class="row">
-            <h1>BROKENS!!</h1>
+            <div class="col-lg-12 text-center">
+                <h2 class="section-heading">{{ with .Site.Params.shows.headline }}{{ . }}{{ end }}</h2>
+                <hr class="primary">
+            </div>
         </div>
+    </div>
+    <div class="container">
+        <table class="table table-bordered">
+
+            <tbody>
+                {{ range .Site.Params.shows.list }}
+                    <tr>
+                        <td>{{.date}}</td>
+                        <td>{{.venue}}</td>
+                        <td>{{.tickets}}</td>
+                    </tr>
+
+                {{ end }}
+
+            </tbody>
+
+
+
+        </table>
+
     </div>
 </section>
