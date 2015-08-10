@@ -16,7 +16,7 @@
                     <tr>
                         <td>{{.date}}</td>
                         <td>{{.venue}}</td>
-                        <td>{{.tickets}}</td>
+                        <td>{{ if .tickets}}<a href="{{.tickets}}">tickets</a>{{end}}</td>
                     </tr>
 
                 {{ end }}
