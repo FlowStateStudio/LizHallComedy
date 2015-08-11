@@ -79,7 +79,8 @@ theme = "hugo-creative-theme"
 
 	# podcast section
 	[params.podcast]
-	  headline = "Liz hosts the popular 'Coming in Sideways Podcast'"
+	  headline = "Podcast"
+    cover = "http://www.bizarr2d2.com/pod/cover2.jpg"
 
 	  [[params.podcast.list]]
 	  icon = "fa-apple"

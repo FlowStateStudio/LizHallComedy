@@ -9,6 +9,10 @@
                 <hr class="primary">
             </div>
         </div>
+        <div class="row text-center">
+            <img src="{{ with .Site.Params.podcast.cover }}{{ . }}{{ end }}"
+                 alt="{{ with .Site.Params.podcast.headline }}{{ . }}{{ end }}" />
+        </div>
     </div>
     <div class="container">
         <div class="row">
