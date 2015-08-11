@@ -1,4 +1,4 @@
-baseurl = "http://flowstatestudio.github.io/LizHallComedy"
+baseurl = "http://flowstatestudio.github.io/LizHallComedy/"
 languageCode = "en-us"
 title = "Liz Hall"
 theme = "hugo-creative-theme"
