@@ -28,7 +28,7 @@ theme = "hugo-creative-theme"
 		brand = "Seriously, who gives their child a kazoo?"
 
 		[params.navigation.links]
-			about     = "Bio"
+			about     = "About"
 			shows     = "Shows"
 			videos    = "Videos"
 			podcast   = "Podcast"
@@ -71,20 +71,36 @@ theme = "hugo-creative-theme"
 
 	# videos section
 	[params.videos]
-		headline = "Videos"
-
+		headline    = "Videos"
 	  [[params.videos.list]]
 	  id = "oXR_nhbSuLI"
 
 
+
 	# podcast section
 	[params.podcast]
+	  headline = "Liz hosts the popular 'Coming in Sideways Podcast'"
+
+	  [[params.podcast.list]]
+	  icon = "fa-apple"
+	  title = "iTunes"
+	  link = "https://itunes.apple.com/us/podcast/coming-in-sideways/id805612135"
+
+	  [[params.podcast.list]]
+	  icon = "fa-headphones"
+	  title = "Stitcher"
+	  link = "http://www.stitcher.com/podcast/oakley-hall-2/coming-in-sideways"
+
+	  [[params.podcast.list]]
+	  icon = "fa-youtube-square"
+	  title = "YouTube"
+	  link = "https://www.youtube.com/channel/UCV7Cmcrjv_qeXy_RWB2ykag"
 
 
 	# Contact section
 	[params.contact]
 		headline = "Want more?"
-		description = "Check out more of Liz Hall's comedy or email for booking info"
+		description = "Email for booking info"
 		email = "hall.liz@gmail.com"
 		twitter = "https://twitter.com/lizhall349"
 		facebook = "https://www.facebook.com/elizabeth.hall.5074"

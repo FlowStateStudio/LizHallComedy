@@ -10,29 +10,28 @@
         </div>
 
         <div class="row">
-            <div class="col-lg-3 text-center" >
-                    <a href="mailto:{{ with .Site.Params.contact.email }}{{ . }}{{ end }}">
-
-                <i class="fa fa-envelope-o fa-3x wow bounceIn" data-wow-delay=".1s" target="_blank">
-                </i>
-                    </a>
+            <div class="col-lg-1 col-lg-offset-4 text-center" >
+                <a href="mailto:{{ with .Site.Params.contact.email }}{{ . }}{{ end }}" target="_blank">
+                    <i class="fa fa-envelope-o fa-3x wow bounceIn"
+                       data-wow-delay=".1s" target="_blank"></i>
+                </a>
             </div>
 
-            <div class="col-lg-3 text-center">
-                <a href="{{ with .Site.Params.contact.twitter }}{{ . }}{{ end }}">
+            <div class="col-lg-1  text-center">
+                <a href="{{ with .Site.Params.contact.twitter }}{{ . }}{{ end }}" target="_blank">
                     <i class="fa fa-twitter-square fa-3x wow bounceIn"
                        data-wow-delay=".1s" target="_blank"></i>
                 </a>
             </div>
 
-            <div class="col-lg-3 text-center">
-                <a href="{{ with .Site.Params.contact.facebook }}{{ . }}{{ end }}">
+            <div class="col-lg-1 text-center">
+                <a href="{{ with .Site.Params.contact.facebook }}{{ . }}{{ end }}" target="_blank">
                     <i class="fa fa-facebook-square fa-3x wow bounceIn"
                        data-wow-delay=".1s" target="_blank"></i>
                 </a>
             </div>
 
-            <div class="col-lg-3 text-center">
+            <div class="col-lg-1 text-center">
                 <a href="{{ with .Site.Params.contact.youtube }}{{ . }}{{ end }}" target="_blank">
                     <i class="fa fa-youtube-square fa-3x wow bounceIn" data-wow-delay=".1s"></i>
                 </a>
