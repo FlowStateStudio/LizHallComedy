@@ -1,0 +1,107 @@
+baseurl = "http://bizarr2d2.com/LizHallComedy/"
+languageCode = "en-us"
+title = "Liz Hall"
+theme = "hugo-creative-theme"
+
+[params]
+
+	# You can use Markdown syntax for urls [text](//url.to/source) for
+	# most longer texts.
+
+	# All icons using Fontawesome's icon font. Look at fortawesome.github.io/Font-Awesome/icons/
+	# for more icons. The icons are represented by their corresponding
+	# CSS class.
+
+	# All projects of the portfolio are defined in their own files.
+	# You can find example projects at 'exampleSite/data/projects'. Copy the 'projects'
+	# folder into the 'data' directory at the root of this Hugo site.
+	# For more informtion take a look at the README.
+
+	# To provide some metadata for search engines feel free to add a few
+    # information about you and your website.
+	name = "Liz Hall"
+	description = "Stand up comedian"
+
+
+	# Navigation
+	[params.navigation]
+		brand = "Seriously, who gives their child a kazoo?"
+
+		[params.navigation.links]
+			about     = "About"
+			shows     = "Shows"
+			videos    = "Videos"
+			podcast   = "Podcast"
+			contact   = "Contact"
+
+
+	# Hero section
+	[params.hero]
+		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
+		slogan     = "Liz Hall"
+		subtitle   = "My feet are mad swole."
+		buttonText = "Find out more"
+
+
+	# About section
+	[params.about]
+		headline    = "Hilarious!"
+		description = "Shit. All of that positivity earlier was just too much caffeine."
+		buttonText  = "Contact Liz"
+
+
+
+	# Shows section
+	[params.shows]
+		headline    = "Upcoming Shows"
+
+	  [[params.shows.list]]
+      date = "8/10/2015, 7:30pm"
+      venue = "The Stand, NY NY"
+      tickets = "http://events.r20.constantcontact.com/register/event?oeidk=a07ebcrqfvde1dc031b&llr=mvldmqdab"
+
+	  [[params.shows.list]]
+	    date = "8/13/2015, 6pm"
+	    venue = "Stand Up NY, NY NY"
+
+	  [[params.shows.list]]
+	    date = "8/11/2015, 9:30pm"
+	    venue = "Greenwich Village Comedy Club,  NY NY"
+
+
+	# videos section
+	[params.videos]
+		headline    = "Videos"
+	  [[params.videos.list]]
+	  id = "oXR_nhbSuLI"
+
+
+
+	# podcast section
+	[params.podcast]
+	  headline = "Liz hosts the popular 'Coming in Sideways Podcast'"
+
+	  [[params.podcast.list]]
+	  icon = "fa-apple"
+	  title = "iTunes"
+	  link = "https://itunes.apple.com/us/podcast/coming-in-sideways/id805612135"
+
+	  [[params.podcast.list]]
+	  icon = "fa-headphones"
+	  title = "Stitcher"
+	  link = "http://www.stitcher.com/podcast/oakley-hall-2/coming-in-sideways"
+
+	  [[params.podcast.list]]
+	  icon = "fa-youtube-square"
+	  title = "YouTube"
+	  link = "https://www.youtube.com/channel/UCV7Cmcrjv_qeXy_RWB2ykag"
+
+
+	# Contact section
+	[params.contact]
+		headline = "Want more?"
+		description = "Email for booking info"
+		email = "hall.liz@gmail.com"
+		twitter = "https://twitter.com/lizhall349"
+		facebook = "https://www.facebook.com/elizabeth.hall.5074"
+    youtube = "https://www.youtube.com/channel/UCV7Cmcrjv_qeXy_RWB2ykag"
