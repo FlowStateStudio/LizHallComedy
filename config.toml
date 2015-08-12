@@ -66,11 +66,11 @@ theme = "hugo-creative-theme"
 	    date = "8/13/2015, 6pm"
 	    venue = "Stand Up NY, NY NY"
 	  [[params.shows.list]]
-      date = 8/18/2015, 8pm
-      venue = Whitehaus, Jamaica Plan, MA
+      date = "8/18/2015, 8pm"
+      venue = "Whitehaus, Jamaica Plan, MA"
 	  [[params.shows.list]]
-      date = 8/20/2015, 6pm
-      venue = Stand Up NY, NY NY
+      date = "8/20/2015, 6pm"
+      venue = "Stand Up NY, NY NY"
 
 
 	# videos section
