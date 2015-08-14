@@ -78,6 +78,9 @@ theme = "hugo-creative-theme"
 		headline = "Videos"
 
 	  [[params.videos.list]]
+	  id = "BbzHIJ77z68"
+
+	  [[params.videos.list]]
 	  id = "oXR_nhbSuLI"
 
 	  [[params.videos.list]]
