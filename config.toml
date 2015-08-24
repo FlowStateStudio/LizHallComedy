@@ -56,21 +56,14 @@ theme = "hugo-creative-theme"
 		headline = "Upcoming Shows"
 
 	  [[params.shows.list]]
-      date = "8/10/2015, 7:30pm"
-      venue = "The Stand, NY NY"
-      tickets = "http://events.r20.constantcontact.com/register/event?oeidk=a07ebcrqfvde1dc031b&llr=mvldmqdab"
-	  [[params.shows.list]]
-	    date = "8/11/2015, 9:30pm"
+	    date = "8/25/2015, 9:30pm"
 	    venue = "Greenwich Village Comedy Club, 99 MacDougal St."
 	  [[params.shows.list]]
-	    date = "8/13/2015, 6pm"
-	    venue = "Stand Up NY, NY NY"
+      date = "8/27/2015, 6pm"
+      venue = "Stand Up NY,  NY NY"
 	  [[params.shows.list]]
-      date = "8/18/2015, 8pm"
-      venue = "Whitehaus, Jamaica Plan, MA"
-	  [[params.shows.list]]
-      date = "8/20/2015, 6pm"
-      venue = "Stand Up NY, NY NY"
+      date = "9/2/2015, 7:30pm"
+      venue = "Eastville Comedy Club, NY, NY"
 
 
 	# videos section
