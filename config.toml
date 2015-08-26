@@ -25,7 +25,7 @@ theme = "hugo-creative-theme"
 
 	# Navigation
 	[params.navigation]
-		brand = "Seriously, who gives their child a kazoo?"
+		brand = "My feet are mad swole."
 
 		[params.navigation.links]
 			about     = "About"
@@ -39,8 +39,8 @@ theme = "hugo-creative-theme"
 	[params.hero]
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
 		slogan     = "Liz Hall"
-		subtitle   = "My feet are mad swole."
-		buttonText = "Find out more"
+		subtitle   = "Seriously, who gives their child a kazoo?"
+		buttonText = "Upcoming Shows"
 
 
 	# About section
@@ -54,7 +54,6 @@ theme = "hugo-creative-theme"
 	# Shows section
 	[params.shows]
 		headline = "Upcoming Shows"
-
 	  [[params.shows.list]]
 	    date = "8/25/2015, 9:30pm"
 	    venue = "Greenwich Village Comedy Club, 99 MacDougal St."
