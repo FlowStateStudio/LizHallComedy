@@ -49,8 +49,6 @@ theme = "hugo-creative-theme"
 		description = "Shit. All of that positivity earlier was just too much caffeine."
 		buttonText  = "Contact Liz"
 
-
-
 	# Shows section
 	[params.shows]
 		headline = "Upcoming Shows"
@@ -63,7 +61,12 @@ theme = "hugo-creative-theme"
 	  [[params.shows.list]]
       date = "9/2/2015, 7:30pm"
       venue = "Eastville Comedy Club, NY, NY"
-
+	  [[params.shows.list]]
+      date = "9/8/2015 10pm"
+      venue = "Thunder Jackson's, NY, NY"
+	  [[params.shows.list]]
+      date = "9/10/2015 6pm"
+      venue = "Stand Up NY,  NY NY"
 
 	# videos section
 	[params.videos]
