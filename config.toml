@@ -84,24 +84,24 @@ theme = "hugo-creative-theme"
       date = "10/8/2015 8pm"
       venue = "The Good Life, Boston, MA"
 
-    [[params.shows.list]]
-				date = "10/20/2015 10pm"
-			  venue = "Thunder Jackson's, NY, NY
-    [[params.shows.list]]
-				date = "10/22/2015 8pm & 10pm"
-				venue = "Maxwell's Taven, Hoboken, NJ"
-    [[params.shows.list]]
-				date = "10/23/2015 6pm"
-				venue = "Stand Up NY, NY NY"
-    [[params.shows.list]]
-				date = "10/27/2015 10pm"
-				venue = "Thunder Jackson's, NY, NY"
-    [[params.shows.list]]
-				date = "10/28/2015 8pm & 10pm"
-				venue = "Maxwell's Taven, Hoboken, NJ"
-     [[params.shows.list]]
-				date = "10/29/2015 6pm"
-				venue = "Stand Up NY, NY NY"
+# #   [[params.shows.list]]
+#				date = "10/20/2015 10pm"
+#			  venue = "Thunder Jackson's, NY, NY
+#    [[params.shows.list]]
+#				date = "10/22/2015 8pm & 10pm"
+#				venue = "Maxwell's Taven, Hoboken, NJ"
+#    [[params.shows.list]]
+#				date = "10/23/2015 6pm"
+#				venue = "Stand Up NY, NY NY"
+#    [[params.shows.list]]
+#				date = "10/27/2015 10pm"
+#				venue = "Thunder Jackson's, NY, NY"
+#    [[params.shows.list]]
+#				date = "10/28/2015 8pm & 10pm"
+#				venue = "Maxwell's Taven, Hoboken, NJ"
+#     [[params.shows.list]]
+#				date = "10/29/2015 6pm"
+#				venue = "Stand Up NY, NY NY"
 
 	# videos section
 	[params.videos]
