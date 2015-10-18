@@ -84,6 +84,7 @@ theme = "hugo-creative-theme"
       date = "10/8/2015 8pm"
       venue = "The Good Life, Boston, MA"
 
+
 	# videos section
 	[params.videos]
 		headline = "Videos"
