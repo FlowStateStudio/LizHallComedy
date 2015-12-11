@@ -110,6 +110,18 @@ theme = "hugo-creative-theme"
       date = "11/27/2015 7:30pm	"
 			venue = "Webster Hall, New York, NY"
 			tickets = "http://www.ticketweb.com/t3/sale/SaleEventDetail?dispatch=loadSelectionData&eventId=6308755&pl=webconcerts&REFERRAL_ID=TW_ADD_EDP#.VjFRhk7eM7o.facebook"
+     [[params.shows.list]]
+      date = "12/13/2015 8:30pm"
+			venue = "Freddy's Bar, Brooklyn, NY"
+     [[params.shows.list]]
+      date = "12/15/2015 10pm"
+			venue = "Thunder Jackson's, NY, NY"
+     [[params.shows.list]]
+      date = "12/17/2015 6pm"
+			venue = "Stand Up NY, NY NY"
+     [[params.shows.list]]
+      date = "12/21/2015 10pm"
+			venue = "Stand Up NY, NY NY"
 
 	# videos section
 	[params.videos]
