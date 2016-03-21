@@ -53,52 +53,17 @@ theme = "hugo-creative-theme"
 	[params.shows]
 		headline = "Upcoming Shows"
      [[params.shows.list]]
-      date = "11/3/2015 10pm	"
+      date = "3/22/2016 10pm"
 			venue = "Thunder Jackson's, NY, NY"
      [[params.shows.list]]
-      date = "11/4/2015 8pm & 10pm	"
-			venue = "Maxwell's Taven, Hoboken, NJ"
+      date = "3/23/2016 8pm"
+			venue = "Porgie & Jess Comedy Show: Catman vs Superman, RAKit CLUB, Bushwick, Brooklyn"
      [[params.shows.list]]
-      date = "11/5/2015 6pm	"
-			venue = "Stand Up NY,  NY NY"
+      date = "3/24/2016 8pm"
+			venue = "No Sugar Tonight, Teafee Coffee Shop, Court St. Brooklyn"
      [[params.shows.list]]
-      date = "11/11/2015 7pm	"
-			venue = "Boston Comedy Festival, Somerville Theater, Somerville, MA"
-     [[params.shows.list]]
-      date = "11/12/2015 7:30pm	"
-			venue = "Good Life Comedy Night w Headliner Lamont Price, The Good Life, Boston, MA"
-     [[params.shows.list]]
-      date = "11/16/2015 10pm	"
-			venue = "Thunder Jackson's, NY, NY"
-     [[params.shows.list]]
-      date = "11/17/2015 8pm & 10pm	"
-			venue = "Maxwell's Taven, Hoboken, NJ"
-     [[params.shows.list]]
-      date = "11/18/2015 6pm 	"
-			venue = "Stand Up NY,  NY NY"
-     [[params.shows.list]]
-      date = "11/23/2015 10pm	"
-			venue = "Stand Up NY,  NY NY"
-     [[params.shows.list]]
-      date = "11/24/2105 10pm	"
-			venue = "Thunder Jackson's, NY, NY"
-     [[params.shows.list]]
-      date = "11/27/2015 7:30pm	"
-			venue = "Webster Hall, New York, NY"
-			tickets = "http://www.ticketweb.com/t3/sale/SaleEventDetail?dispatch=loadSelectionData&eventId=6308755&pl=webconcerts&REFERRAL_ID=TW_ADD_EDP#.VjFRhk7eM7o.facebook"
-     [[params.shows.list]]
-      date = "12/13/2015 8:30pm"
-			venue = "Freddy's Bar, Brooklyn, NY"
-     [[params.shows.list]]
-      date = "12/15/2015 10pm"
-			venue = "Thunder Jackson's, NY, NY"
-     [[params.shows.list]]
-      date = "12/17/2015 6pm"
-			venue = "Stand Up NY, NY NY"
-     [[params.shows.list]]
-      date = "12/21/2015 10pm"
-			venue = "Stand Up NY, NY NY"
-
+      date = "3/28/2016 6pm"
+			venue = "Giggle Pit, Klimat Lounge, Manhattan"
 	# videos section
 	[params.videos]
 		headline = "Videos"
