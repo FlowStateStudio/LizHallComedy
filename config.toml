@@ -52,9 +52,7 @@ theme = "hugo-creative-theme"
 	# Shows section
 	[params.shows]
 		headline = "Upcoming Shows"
-     [[params.shows.list]]
-      date = "3/22/2016 10pm"
-			venue = "Thunder Jackson's, NY, NY"
+
      [[params.shows.list]]
       date = "3/23/2016 8pm"
 			venue = "Porgie & Jess Comedy Show: Catman vs Superman, RAKit CLUB, Bushwick, Brooklyn"
@@ -64,6 +62,12 @@ theme = "hugo-creative-theme"
      [[params.shows.list]]
       date = "3/28/2016 6pm"
 			venue = "Giggle Pit, Klimat Lounge, Manhattan"
+     [[params.shows.list]]
+     date = "3/30/2016 7pm"
+            venue = "Laughing at Life, Pianos, Ludlow St, NY"
+     [[params.shows.list]]
+     date = "3/31/2016 9:30pm"
+            venue = "Level 8: A Comedy Variety Series, The Tank, 151 W46th St 8th Floor, NY"
 	# videos section
 	[params.videos]
 		headline = "Videos"
