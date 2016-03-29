@@ -67,7 +67,7 @@ theme = "hugo-creative-theme"
             venue = "Laughing at Life, Pianos, Ludlow St, NY"
      [[params.shows.list]]
      date = "3/31/2016 9:30pm"
-            venue = "Level 8: A Comedy Variety Series, The Tank, 151 W46th St 8th Floor, NY"
+            venue = "Level 8: A Comedy Variety Series, The Tank, 151 W46th St 8th Floor, NY NY"
 	# videos section
 	[params.videos]
 		headline = "Videos"
