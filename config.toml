@@ -76,14 +76,7 @@ theme = "hugo-creative-theme"
 	  id = "BbzHIJ77z68"
 
 	  [[params.videos.list]]
-	  id = "oXR_nhbSuLI"
-
-	  [[params.videos.list]]
-	  id = "z-whhMActHk"
-
-	  [[params.videos.list]]
-	  id = "9FB2NH7WQ2E"
-
+	  id = "oXR_nhbSuLI
 
 
 	# podcast section
