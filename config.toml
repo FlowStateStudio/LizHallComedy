@@ -63,11 +63,18 @@ theme = "hugo-creative-theme"
       date = "3/28/2016 6pm"
 			venue = "Giggle Pit, Klimat Lounge, Manhattan"
      [[params.shows.list]]
-     date = "3/30/2016 7pm"
-            venue = "Laughing at Life, Pianos, Ludlow St, NY"
+     	date = "3/30/2016 7pm"
+			venue = "Laughing at Life, Pianos, Ludlow St, NY"
      [[params.shows.list]]
-     date = "3/31/2016 9:30pm"
-            venue = "Level 8: A Comedy Variety Series, The Tank, 151 W46th St 8th Floor, NY NY"
+     	date = "3/31/2016 9:30pm"
+			venue = "Level 8: A Comedy Variety Series, The Tank, 151 W46th St 8th Floor, NY NY"
+     [[params.shows.list]]
+     	date = "4/11/2016 7:30pm"
+			venue = "The Stand, NY"
+			tickets = "http://events.constantcontact.com/register/event?llr=mvldmqdab&oeidk=a07ecgpg0ge2ce417f1"
+
+
+
 	# videos section
 	[params.videos]
 		headline = "Videos"
