@@ -48,7 +48,7 @@ theme = "hugo-creative-theme"
 		headline    = "Hilarious!"
 		description = "Shit. All of that positivity earlier was just too much caffeine."
 		buttonText  = "Contact Liz"
-
+./de
 	# Shows section
 	[params.shows]
 		headline = "Upcoming Shows"
