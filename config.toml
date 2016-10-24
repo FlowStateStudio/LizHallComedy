@@ -51,28 +51,36 @@ theme = "hugo-creative-theme"
 
 	# Shows section
 	[params.shows]
-		headline = "Upcoming Shows"
+		headline = "Shows"
 
      [[params.shows.list]]
-      date = "3/23/2016 8pm"
-			venue = "Porgie & Jess Comedy Show: Catman vs Superman, RAKit CLUB, Bushwick, Brooklyn"
-     [[params.shows.list]]
-      date = "3/24/2016 8pm"
-			venue = "No Sugar Tonight, Teafee Coffee Shop, Court St. Brooklyn"
-     [[params.shows.list]]
-      date = "3/28/2016 6pm"
-			venue = "Giggle Pit, Klimat Lounge, Manhattan"
-     [[params.shows.list]]
-     	date = "3/30/2016 7pm"
-			venue = "Laughing at Life, Pianos, Ludlow St, NY"
-     [[params.shows.list]]
-     	date = "3/31/2016 9:30pm"
-			venue = "Level 8: A Comedy Variety Series, The Tank, 151 W46th St 8th Floor, NY NY"
-     [[params.shows.list]]
-     	date = "4/11/2016 7:30pm"
-			venue = "The Stand, NY"
-			tickets = "http://events.constantcontact.com/register/event?llr=mvldmqdab&oeidk=a07ecgpg0ge2ce417f1"
+      date = "10/13/2016 8pm"
+			venue = "Domo ArtiTaco, Domo Taco, Brooklyn, NY"
 
+     [[params.shows.list]]
+      date = "10/20/2016 8:30pm"
+			venue = "Comedy at the Corner, Hungry Ghost Cafe, Brooklyn"
+
+     [[params.shows.list]]
+      date = "10/23/2016 7:30pm"
+			venue = "Church! Bunga's Den, New York, NY"
+
+     [[params.shows.list]]
+      date = "10/25/2016 8:30pm"
+			venue = "Dangerfield's, New York, NY"
+
+     [[params.shows.list]]
+      date = "10/27/2016 8pm"
+			venue = "Hoboken Bar and Grill, Benefit Comedy Show for the Hoboken Animal Shelter"
+
+     [[params.shows.list]]
+      date = "11/3/2016 8pm"
+			venue = "Penance, A Comedy Show! Halyards Bar, Brooklyn	Donations go to: http://wheelingforward.org/"
+
+     [[params.shows.list]]
+      date = "12/10/2016 8pm
+			venue = "Six Pack @ Brit Pack"
+			tickets = "https://www.eventbrite.com/e/free-drinks-open-bar-6pack-at-britpack-comedy-showcase-121016-tickets-28618234911"
 
 
 	# videos section
