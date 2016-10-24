@@ -78,7 +78,7 @@ theme = "hugo-creative-theme"
 			venue = "Penance, A Comedy Show! Halyards Bar, Brooklyn	Donations go to: http://wheelingforward.org/"
 
      [[params.shows.list]]
-      date = "12/10/2016 8pm
+      date = "12/10/2016 8pm"
 			venue = "Six Pack @ Brit Pack"
 			tickets = "https://www.eventbrite.com/e/free-drinks-open-bar-6pack-at-britpack-comedy-showcase-121016-tickets-28618234911"
 
