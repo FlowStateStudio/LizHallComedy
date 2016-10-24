@@ -57,31 +57,6 @@ theme = "hugo-creative-theme"
       date = "10/13/2016 8pm"
 			venue = "Domo ArtiTaco, Domo Taco, Brooklyn, NY"
 
-     [[params.shows.list]]
-      date = "10/20/2016 8:30pm"
-			venue = "Comedy at the Corner, Hungry Ghost Cafe, Brooklyn"
-
-     [[params.shows.list]]
-      date = "10/23/2016 7:30pm"
-			venue = "Church! Bunga's Den, New York, NY"
-
-     [[params.shows.list]]
-      date = "10/25/2016 8:30pm"
-			venue = "Dangerfield's, New York, NY"
-
-     [[params.shows.list]]
-      date = "10/27/2016 8pm"
-			venue = "Hoboken Bar and Grill, Benefit Comedy Show for the Hoboken Animal Shelter"
-
-     [[params.shows.list]]
-      date = "11/3/2016 8pm"
-			venue = "Penance, A Comedy Show! Halyards Bar, Brooklyn	Donations go to: http://wheelingforward.org/"
-
-     [[params.shows.list]]
-      date = "12/10/2016 8pm"
-			venue = "Six Pack @ Brit Pack"
-			tickets = "https://www.eventbrite.com/e/free-drinks-open-bar-6pack-at-britpack-comedy-showcase-121016-tickets-28618234911"
-
 
 	# videos section
 	[params.videos]
