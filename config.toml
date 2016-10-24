@@ -40,7 +40,7 @@ theme = "hugo-creative-theme"
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
 		slogan     = "Liz Hall"
 		subtitle   = "Seriously, who gives their child a kazoo?"
-		buttonText = "Upcoming Shows"
+		buttonText = "Shows"
 
 
 	# About section
