@@ -21,6 +21,7 @@ theme = "hugo-creative-theme"
     # information about you and your website.
 	name = "Liz Hall"
 	description = "Stand up comedian"
+  favicon = "favicon.ico"
 
 
 	# Navigation
