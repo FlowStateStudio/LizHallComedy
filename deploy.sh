@@ -1,15 +1,20 @@
-# remove previous publication
-rm -rf public
-mkdir public
+#!/bin/bash
 
-# clone gh-pages branch from the local repo into a repo located within "public"
-git clone .git --branch gh-pages public
+echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
-# generate
+# Build the project.
 hugo
 
-# commit the changes in the clone and push them back to the local gh-pages branch
-cd public && git add --all && git commit -m "Publishing to gh-pages" && git push origin gh-pages
+# Add changes to git.
+git add -A
 
-# publish
-git push upstream gh-pages
+# Commit changes.
+msg="rebuilding site `date`"
+if [ $# -eq 1 ]
+  then msg="$1"
+fi
+git commit -m "$msg"
+
+# Push source and build repos.
+git push origin master
+git subtree push --prefix=public git@github.com:FlowStateStudio/LizHallComedy.git gh-pages
