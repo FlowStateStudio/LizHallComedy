@@ -54,37 +54,40 @@ theme = "hugo-creative-theme"
 		headline = "Shows"
 
      [[params.shows.list]]
-      date = "10/13/2016 8pm"
-			venue = "Domo ArtiTaco, Domo Taco, Brooklyn, NY"
+      date = "3/25/2017 7pm"
+      venue = "Backfat Comedy Present March Madness One-Liner Jokes Contest 	Semi-Finalist"
 
      [[params.shows.list]]
-      date = "10/20/2016 8:30pm"
-			venue = "Comedy at the Corner, Hungry Ghost Cafe, Brooklyn"
+      date = "4/7/4017 9pm"
+      venue = "Home Cooked Comedy @ The Five Spot"
 
      [[params.shows.list]]
-      date = "10/23/2016 7:30pm"
-			venue = "Church! Bunga's Den, New York, NY"
+      date = "4/20/2017 11pm"
+      venue = "Stand Up NY"
 
      [[params.shows.list]]
-      date = "10/25/2016 8:30pm"
-			venue = "Dangerfield's, New York, NY"
+      date = "4/21/2017 7pm"
+      venue = "Comedy at Cafe Forte"
 
      [[params.shows.list]]
-      date = "10/27/2016 8pm"
-			venue = "Hoboken Bar and Grill, Benefit Comedy Show for the Hoboken Animal Shelter"
+      date = "4/22/2017 8:30pm"
+      venue = "Sidewalk Cafe"
 
      [[params.shows.list]]
-      date = "11/3/2016 8pm"
-			venue = "Penance, A Comedy Show! Halyards Bar, Brooklyn	Donations go to: http://wheelingforward.org/"
+      date = "5/20/2017 8pm"
+      venue = "Comedy Camp w Liz & Glo"
 
      [[params.shows.list]]
-      date = "12/10/2016 8pm"
-			venue = "Six Pack @ Brit Pack"
-			tickets = "https://www.eventbrite.com/e/free-drinks-open-bar-6pack-at-britpack-comedy-showcase-121016-tickets-28618234911"
+      date = "5/21/2017 8pm"
+      venue = "Greenwich Village Comedy Club"
+
 
 	# videos section
 	[params.videos]
 		headline = "Videos"
+
+	  [[params.videos.list]]
+	  id = "sK-1sn-kBEg"
 
 	  [[params.videos.list]]
 	  id = "BbzHIJ77z68"
