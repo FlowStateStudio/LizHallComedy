@@ -54,7 +54,7 @@ theme = "hugo-creative-theme"
 		headline = "Shows"
 
      [[params.shows.list]]
-      date = "3/25/2017 7pm"
+      date = "3/25/2017 7pm"./de
       venue = "Backfat Comedy Present March Madness One-Liner Jokes Contest. Semi-Finalist"
 
      [[params.shows.list]]
