@@ -53,8 +53,21 @@ theme = "hugo-creative-theme"
 	# Shows section
 	[params.shows]
 		headline = "Shows"
-
      [[params.shows.list]]
+
+
+      date = "3/16/2018 8pm"
+      venue = "Comedy Camp w Liz & Glo"
+
+      date = "3/10/2018 7:30pm"
+      venue = "The Revolution @ QED Astoria"
+
+      date = "2/24/2018 8pm"
+      venue = "Kindred Sluts @ Club Cumming"
+
+      date = "1/11/2018 9:30pm"
+      venue = "Home Cooked Comedy @ The Five Spot"
+
       date = "3/25/2017 7pm"
       venue = "Backfat Comedy Present March Madness One-Liner Jokes Contest. Semi-Finalist"
 
@@ -86,6 +99,9 @@ theme = "hugo-creative-theme"
 	# videos section
 	[params.videos]
 		headline = "Videos"
+
+	  [[params.videos.list]]
+	  id = "YMMIbhCfArE&"
 
 	  [[params.videos.list]]
 	  id = "sK-1sn-kBEg"
