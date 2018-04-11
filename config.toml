@@ -103,7 +103,7 @@ theme = "hugo-creative-theme"
 		headline = "Videos"
 
 	  [[params.videos.list]]
-	  id = "YMMIbhCfArE&"
+	  id = "YMMIbhCfArE"
 
 	  [[params.videos.list]]
 	  id = "sK-1sn-kBEg"
