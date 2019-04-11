@@ -55,6 +55,14 @@ theme = "hugo-creative-theme"
 		headline = "Shows"
 
      [[params.shows.list]]
+       date = "4/16/2019 8pm"
+       venue = "Hard Pass, The Grisly Pear"
+
+     [[params.shows.list]]
+       date = "4/15/2019 9pm"
+       venue = "LApDAnceSAloon, 2A Bar"
+
+     [[params.shows.list]]
       date = "4/10/2019 7:30p"
       venue = "XL Comedy w Xazmin Garza, Liz Hall & Friends, Branded Saloon"
 
