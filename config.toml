@@ -54,8 +54,6 @@ theme = "hugo-creative-theme"
 	[params.shows]
 		headline = "Shows"
 
-
-    Upcoming:
     [[params.shows.list]]
       date = "4/19/2019 "
       venue = "Xazmin Garza headlines The Gas, Great Scott, Allston, MA."
