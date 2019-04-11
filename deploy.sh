@@ -27,3 +27,28 @@ echo "Updating gh-pages branch"
 cd public && git add --all && git commit -m "Publishing to gh-pages (publish.sh)" && git push
 
 cd ..
+
+
+#      [[params.shows.list]]
+#        date = "4/19/2019 "
+#        venue = "Xazmin Garza headlines The Gas, Great Scott, Allston, MA."
+#
+#      [[params.shows.list]]
+#        date = "4/18/2019 8pm"
+#        venue = "The Laugh Shack, Portland, ME"
+#
+#      [[params.shows.list]]
+#        date = "4/17/2019 8pm"
+#        venue = "Xazmin Garza with Liz Hall, The Shaskeen Pub, Manchester, NH"
+#
+#      [[params.shows.list]]
+#        date = "4/16/2019 5pm"
+#        venue = "Ignite AI Conference, Midtown Hilton"
+#
+#      [[params.shows.list]]
+#        date = "4/16/2019 8pm"
+#        venue = "Hard Pass, The Grisly Pear"
+#
+#      [[params.shows.list]]
+#        date = "4/15/2019 9pm"
+#        venue = "LApDAnceSAloon, 2A Bar"
