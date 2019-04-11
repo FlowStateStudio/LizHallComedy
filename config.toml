@@ -53,6 +53,37 @@ theme = "hugo-creative-theme"
 	# Shows section
 	[params.shows]
 		headline = "Shows"
+
+
+    Upcoming:
+    [[params.shows.list]]
+      date = "4/19/2019 "
+      venue = "Xazmin Garza headlines The Gas, Great Scott, Allston, MA."
+
+    [[params.shows.list]]
+      date = "4/18/2019 8pm"
+      venue = "The Laugh Shack, Portland, ME"
+
+    [[params.shows.list]]
+      date = "4/17/2019 8pm"
+      venue = "Xazmin Garza with Liz Hall, The Shaskeen Pub, Manchester, NH"
+
+    [[params.shows.list]]
+      date = "4/16/2019 5pm"
+      venue = "Ignite AI Conference, Midtown Hilton"
+
+    [[params.shows.list]]
+      date = "4/16/2019 8pm"
+      venue = "Hard Pass, he Grisly Pear"
+
+    [[params.shows.list]]
+      date = "4/15/2019 9pm"
+      venue = "LApDAnceSAloon - 9p, 2A Bar Tickets here."
+
+		[[params.shows.list]]
+      date = "4/10/2019 7:30p"
+      venue = "XL Comedy w Xazmin Garza, Liz Hall & Friends, Branded Saloon
+
      [[params.shows.list]]
       date = "3/16/2018 8pm"
       venue = "Comedy Camp w Liz & Glo"
