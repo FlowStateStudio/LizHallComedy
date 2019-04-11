@@ -55,12 +55,31 @@ theme = "hugo-creative-theme"
 		headline = "Shows"
 
      [[params.shows.list]]
+       date = "4/19/2019 8pm"
+       venue = "Xazmin Garza headlines The Gas, Great Scott, Allston, MA "
+       tickets = "https://www.axs.com/events/370935/xazmin-garza-tickets?skin=greatscott"
+
+     [[params.shows.list]]
+       date = "4/18/2019 8pm"
+       venue = "The Laugh Shack, Portland, ME"
+
+     [[params.shows.list]]
+       date = "4/17/2019 8pm"
+       venue = " Xazmin Garza with Liz Hall, The Shaskeen Pub, Manchester, NH "
+
+     [[params.shows.list]]
+       date = "4/16/2019 8pm"
+       venue = "Ignite AI Conference, 5p, Midtown Hilton"
+       tickets = "https://www.eventbrite.com/e/ignite-nyc-2019-the-ai-conference-tickets-58412949705"
+
+     [[params.shows.list]]
        date = "4/16/2019 8pm"
        venue = "Hard Pass, The Grisly Pear"
 
      [[params.shows.list]]
        date = "4/15/2019 9pm"
        venue = "LApDAnceSAloon, 2A Bar"
+       tickets = "https://www.eventbrite.com/e/free-comedy-free-pizza-its-lap-dance-saloon-tickets-59544637614?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing"
 
      [[params.shows.list]]
       date = "4/10/2019 7:30p"
