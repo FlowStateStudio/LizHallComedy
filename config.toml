@@ -82,7 +82,7 @@ theme = "hugo-creative-theme"
 
 		[[params.shows.list]]
       date = "4/10/2019 7:30p"
-      venue = "XL Comedy w Xazmin Garza, Liz Hall & Friends, Branded Saloon
+      venue = "XL Comedy w Xazmin Garza, Liz Hall & Friends, Branded Saloon"
 
      [[params.shows.list]]
       date = "3/16/2018 8pm"
